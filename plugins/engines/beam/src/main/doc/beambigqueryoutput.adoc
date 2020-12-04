@@ -5,7 +5,7 @@
 
 == Description
 
-The Beam BigQuery Input transform can be used to input data from link:https://cloud.google.com/bigquery[BigQuery] using the Beam execution engine.
+The Beam BigQuery Output transform can be used to output data from link:https://cloud.google.com/bigquery[BigQuery] using the Beam execution engine.
 
 == Options
 
